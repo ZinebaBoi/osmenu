@@ -1,5 +1,7 @@
 # osmenu
 My bind menu for Team Fortress 2. Has lots of useful features like sv_cheats 1 cheats, server control panel, bot controls, comp callouts, game settings, crosshair switcher, game debug features, soundtrack music player and demo playback menu. All written with Source engine console commands.
+
+This is a fork for pull requests
 # Installation
 1. Download and extract menu folder.
 2. Copy 'osmenu' folder to your Team Fortress 2/tf/cfg folder
